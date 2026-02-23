@@ -66,4 +66,4 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=js,linux,vscode&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=js,vscode&theme=dark)](https://skillicons.dev)
